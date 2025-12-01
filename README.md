@@ -30,5 +30,5 @@ Currently working on commercial IoT solutions and improving my engineering skill
 ---
 
 ### 📫 Contacts
-- **Telegram:** [@relay_log](https://t.me/relay_log)
+- **Telegram:** [@rehydrate1](https://t.me/rehydrate1)
 - **Habr:** [rehydrate](https://habr.com/ru/users/rehydrate/)
