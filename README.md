@@ -8,15 +8,17 @@
   There is no place like 127.0.0.1
 ┌──────────────────────────────────────────┐
   Name: Artem
-  Uptime: 21 years
   Role: Go Backend Developer
   Focus: High-load systems, IoT
-  Location: Veliky Novgorod, Russia
   Languages: Go, C, Python, SQL
   Infrastructure: Docker, Linux, PostgreSQL
-  Hobbies: Calisthenics, Gaming
+└──────────────────────────────────────────┘
+  rehydrate1@github
+┌──────────────────────────────────────────┐
   Telegram: @rehydrate1
   Habr: rehydrate
+  Location: Veliky Novgorod, Russia
+  Uptime: 21 years
 └──────────────────────────────────────────┘
   ● ● ● ● ● ● ● ●
 ```
